@@ -9,6 +9,6 @@ public class Perritos {
         this.raza = raza;
     }
 
-    private String raza; 
+    private String raza;
 
 }
